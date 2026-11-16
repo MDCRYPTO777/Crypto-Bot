@@ -1,0 +1,8 @@
+{
+  "name": "paper-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Paper trading desk (fake money)",
+  "scripts": { "start": "node desk.js" },
+  "engines": { "node": ">=18" }
+}
